@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/ft-report",
+      "destination": "https://script.google.com/macros/s/AKfycbwhtJmUZ3UgEkO9Ny_2o24UvBAHqoQdEXnqKgXEJmz3HkyEWC4M11lraKsy1NsjMcvJBw/exec"
+    }
+  ]
+}
